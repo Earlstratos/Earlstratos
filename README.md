@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Earlstratos
 - 👀 I’m interested in webdevelopment
-- 🌱 I’m currently learning html,css
+- 🌱 I’m currently learning backend development
 - 💞️ I’m looking to collaborate on webdevelopment 
 - 📫 How to reach me @Earlstratos
 
